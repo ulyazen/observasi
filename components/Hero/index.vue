@@ -3,7 +3,7 @@
 
 <template>
   <div>
-    <Icon icon="mdi:instagram"/>
+    <Icon name="mdi:instagram"/>
   </div>
 </template>
 
