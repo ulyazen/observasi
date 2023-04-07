@@ -9,6 +9,7 @@
         <div fluid class="p-3 md:p-5">
         <Hero/>
         <Fitur/>
+        <Artikel/>
           <slot />
         </div>
       </div>
