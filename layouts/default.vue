@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="font-manrop min-h-screen h-full w-full flex">
+  <div class="font-manrope min-h-screen h-full w-full flex">
     <div class="h-full flex flex-col flex-grow">
       <Navbar/>
 

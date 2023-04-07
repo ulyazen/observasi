@@ -2,7 +2,7 @@ module.exports = {
     theme: {
       extend: {
         fontFamily: {
-          'manrop': ['Manrope', 'sans-serif'],
+          'manrope': ['Manrope', 'sans-serif'],
         },
       },
     },

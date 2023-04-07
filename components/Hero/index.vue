@@ -2,7 +2,9 @@
 </script>
 
 <template>
-  <div>Hero</div>
+  <div>
+    <Icon icon="mdi:instagram"/>
+  </div>
 </template>
 
 <style scoped>
