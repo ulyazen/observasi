@@ -8,6 +8,7 @@ export default defineNuxtConfig({
       '@nuxtjs/fontaine',
       'nuxt-icon',
       '@vue-macros/nuxt',
+      'nuxt-headlessui',
     ],
     components: {
       global: true,

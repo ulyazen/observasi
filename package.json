@@ -25,6 +25,7 @@
     "@vue-macros/nuxt": "^1.2.8",
     "@vueuse/nuxt": "^9.13.0",
     "dayjs": "^1.11.5",
+    "nuxt-headlessui": "^1.1.1",
     "nuxt-icon": "^0.3.3",
     "nuxt-vitest": "^0.6.6",
     "unplugin-icons": "^0.15.3"
