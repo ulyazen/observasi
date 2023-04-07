@@ -41,9 +41,9 @@
 import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue'
 
 const navigation = [
-  { name: 'BERANDA', href: '#', current: true },
-  { name: 'CUITAN', href: '#', current: false },
-  { name: 'GALERI', href: '#', current: false },
-  { name: 'CERITA KOPI', href: '#', current: false },
+  { name: 'BERANDA', href: '/', current: true },
+  { name: 'CUITAN', href: '/cuitan', current: false },
+  { name: 'GALERI', href: '/galeri', current: false },
+  { name: 'CERITA KOPI', href: '/ceritakopi', current: false },
 ]
 </script>
